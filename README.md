@@ -1,7 +1,7 @@
 <h1 align="center">
     Fairfield College Preparatory School<br>
     Computer Programming - Mr.O <br>
-    Cycle 1 Labs
+    Cycle 2 Labs
 </h1>
 
 <h2 align="center">Due before 8:30 AM on 9/25</h2>
